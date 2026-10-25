@@ -179,7 +179,7 @@ terraform init && terraform apply
 
 <div align="center">
 
-**Built by [Rahul Goyal](https://github.com/rahulgoyaldevops)** — Enterprise Cloud Architect | 14+ Years
+**Built by [Rahul Goyal](https://github.com/rahulgoyaldevops)** — Senior DevOps & Cloud Engineer | 14+ Years
 
 *"The cloud bill is a technical problem, not just a finance problem."*
 
