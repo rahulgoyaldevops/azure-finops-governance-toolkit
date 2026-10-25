@@ -8,7 +8,7 @@
     - Disassociated Public IP Addresses
     - Oversized non-production compute resources
 .AUTHOR
-    Rahul Goyal (14+ Years Enterprise Cloud & Platform Architecture)
+    Rahul Goyal (14+ Years Senior DevOps & Cloud Engineering)
 #>
 
 param(
