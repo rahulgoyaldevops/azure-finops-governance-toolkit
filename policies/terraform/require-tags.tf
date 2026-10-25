@@ -1,6 +1,6 @@
-# ============================================================================
-# FinOps Governance — Mandatory Resource Tagging Policy as Code
-# Architect: Rahul Goyal
+﻿# ============================================================================
+# FinOps Governance â€” Mandatory Resource Tagging Policy as Code
+# Senior DevOps Engineer: Rahul Goyal
 # ============================================================================
 
 variable "mandatory_tags" {
