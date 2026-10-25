@@ -1,6 +1,6 @@
 # ============================================================================
 # FinOps & Security Policy: Deny Unapproved Public IP Creation
-# Engineering Lead: Rahul Goyal
+# Senior DevOps Engineer: Rahul Goyal
 # ============================================================================
 
 resource "azurerm_policy_definition" "deny_public_ip" {
