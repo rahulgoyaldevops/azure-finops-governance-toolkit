@@ -1,0 +1,40 @@
+# ============================================================================
+# Enterprise Production .gitignore
+# ============================================================================
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Terraform plan binary files
+*.tfplan
+*.binary
+tfplan
+tfplan.binary
+
+# Ignore sensitive variable definition files
+*.tfvars.secret
+*.auto.tfvars.secret
+
+# Environment and Secret files
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+*.tmp
