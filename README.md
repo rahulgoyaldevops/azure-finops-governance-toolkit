@@ -13,7 +13,8 @@
 
 </div>
 
----
+> 📊 **ROI Case Study:** [Enterprise Azure FinOps ROI Case Study (30%+ Spend Reduction)](docs/FINOPS_ROI_CASE_STUDY.md)
+> ---
 
 ## 🎯 The Problem
 
